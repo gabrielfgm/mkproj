@@ -1,0 +1,6 @@
+[package]
+name = "mkproj"
+version = "0.1.0"
+authors = ["gabrielfgm <gabriel.geisler@graduateinstitute.ch>"]
+
+[dependencies]
