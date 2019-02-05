@@ -16,6 +16,7 @@ fn main() -> std::io::Result<()> {
 			.index(1))
 		.arg(Arg::with_name("tex")
 			.help("Should a tex file be generated?")
+			.long("tex")
 			.short("t"))
 		.get_matches();
 
